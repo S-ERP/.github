@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[https://github.com/S-ERP/.github/wiki](Siguenos enla wiki)
+https://github.com/S-ERP/.github/wiki
+
+
 <!--
 
 **Here are some ideas to get you started:**

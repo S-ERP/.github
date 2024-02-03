@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-https://github.com/S-ERP/.github/wiki
+## Wiki
+[Wiki](https://www.figma.com/file/rrVYhUiBmTllEuvsgEUWL8/SERP?type=design&node-id=22-122&mode=design&t=M3mOZNoJFwWhU2z3-0)
 
+
+## Figma
+[Figma](https://www.figma.com/file/rrVYhUiBmTllEuvsgEUWL8/SERP?type=design&node-id=22-122&mode=design&t=M3mOZNoJFwWhU2z3-0)
 
 <!--
 

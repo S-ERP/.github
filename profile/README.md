@@ -1,4 +1,3 @@
-Bienvenido a SERP tu ERP facil de usar y en tu movil.
 
 # 👋 Bienvenido a **Servisofts ERP - CRM**
 
